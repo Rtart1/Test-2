@@ -1,0 +1,24 @@
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#block_color {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(255, 252, 95);
+  margin-right: 20px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+}
+
+#counter {
+  font-size: 55px;
+  margin-top: 50px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+}
